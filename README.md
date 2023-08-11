@@ -1,4 +1,4 @@
-**近期变动/GitHub Contributions**
+**GitHub Contributions**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ietsbegintheadventure/Ietsbegintheadventure/output/github-contribution-grid-snake-dark.svg" />
